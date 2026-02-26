@@ -1,0 +1,1 @@
+avoid opening a position if the upcoming earnings date is within the next 7 days
