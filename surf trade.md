@@ -2,7 +2,7 @@ also known as pullback to moving averages
 
 ### description of surf trade
 
-surf trade is when a stock with tremendous [[relative strength]] takes a breather and comes back to the [[mark minervini (key moving averages)]] that's guiding them. When a stock is having a big run-up and having good adherence to a key moving average (be it the EMA 10 or the EMA 20). 
+surf trade is when a stock with tremendous [[relative strength]] takes a breather and comes back to the [[key moving averages]] that's guiding them. When a stock is having a big run-up and having good adherence to a key moving average (be it the EMA 10 or the EMA 20). 
 
 Sometimes, the stock will take one or two sessions not continuing upwards but drifting back towards the EMA that was guiding it throughout the run-up. When the stock price drifts within one ATR multiple, one ATR percentage multiple from the moving average (be it EMA 10 for really strong stocks or EMA 20 for strong stocks), that could provide a good buying opportunity to get on to a proven, relatively strong trending stock that is moving in full momentum.
 

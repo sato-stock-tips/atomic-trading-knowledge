@@ -27,11 +27,11 @@ Institutions leave footprints in the chart — you just need to know where to lo
     
 5. **Strong [[relative strength]] Line:** While the general market chops, the RS line should make new highs. Funds don't waste time with laggards — they back leaders.
     
-6. **Support at [[mark minervini (key moving averages)]]:** Accumulated stocks often respect EMA 10 or EMA 20. Each test brings in new buying interest instead of breaking lower.
+6. **Support at [[key moving averages]]:** Accumulated stocks often respect EMA 10 or EMA 20. Each test brings in new buying interest instead of breaking lower.
     
 7. **Volume Dry-Ups at Lows:** When a stock pulls back into support and volume collapses, it often signals sellers are done — setting up the next accumulation phase.
     
-8. **Cluster of Breakouts in a [[Sector]]:** Institutions rarely buy one stock alone. If multiple names in the same theme show accumulation, the money flow is real.
+8. **Cluster of Breakouts in a [[industry (previously known as sectors)]]:** Institutions rarely buy one stock alone. If multiple names in the same theme show accumulation, the money flow is real.
     
 9. **Earnings as a Catalyst:** Accumulation often intensifies around earnings. Look for [[gaps]] that hold and volume spikes on results — that's conviction buying.
     

@@ -1,4 +1,4 @@
-A breakdown occurs when price violates key [[support & resistance]] levels and [[mark minervini (key moving averages)]], signaling institutional distribution and potential trend reversal.
+A breakdown occurs when price violates key [[support & resistance]] levels and [[key moving averages]], signaling institutional distribution and potential trend reversal.
 
 ## What is a Breakdown?
 
@@ -70,7 +70,7 @@ From Qullamaggie's framework:
 - Any support break is more dangerous
 - Risk/reward has deteriorated significantly
 - Bounces are often selling opportunities, not buy points
-- These are [[extended stocks]] that should have been sold per [[7-11 take profit rule]]
+- These are [[extended stocks]] that should have been sold per [[69 take profit rule]]
 
 **Example:**
 ```

@@ -48,7 +48,7 @@ This is the power of [[assymetric bets]].
 
 ### 2. Use the 7-11 Take Profit Rule
 
-Per [[7-11 take profit rule]]:
+Per [[69 take profit rule]]:
 
 **Scale out at ATR% multiples from SMA 50:**
 - At 7× ATR%: Sell 20% of position
@@ -190,7 +190,7 @@ But absolute dollars pay the bills, not percentages
 - Do this 10 times, you've destroyed your [[equity curve]]
 
 **The Fix:**
-- Use [[7-11 take profit rule]] systematically
+- Use [[69 take profit rule]] systematically
 - Don't exit based on feelings
 - Let the stock tell you when to exit via EMA breaks
 
@@ -234,7 +234,7 @@ From [[sell into strength]]:
 
 **The Fix:**
 - No profit targets
-- Exit based on price action (EMA breaks) or extension ([[7-11 take profit rule]])
+- Exit based on price action (EMA breaks) or extension ([[69 take profit rule]])
 - Let the market decide when trend is over
 - Your job is to follow, not predict
 
@@ -294,6 +294,10 @@ From [[sell into strength]]:
 - Sell remaining 1/3
 - Exit completely
 - Wait for new setup
+
+## Exit Edge Cases
+
+When a winner goes parabolic or climaxes, normal trailing rules change — see [[exit parabolic stocks]] for those specific conditions. For the full systematic exit process, use the [[close a trade]] checklist.
 
 ## The Payoff
 

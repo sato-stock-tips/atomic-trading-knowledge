@@ -35,7 +35,7 @@ candles seen on the screenshot will follow the source code below
 
 //
 
-// Unlike simple [[mark minervini (key moving averages)]]crossovers, this script incorporates multiple layers of logic, including trend alignment,
+// Unlike simple [[key moving averages]]crossovers, this script incorporates multiple layers of logic, including trend alignment,
 
 // breakout detection, and distance from key averages measured in ATR multiples. It's particularly useful for swing traders,
 

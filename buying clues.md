@@ -1,6 +1,6 @@
-**12 Signs a Chart is “Trade-Ready”**
+**12 Signs a Chart is “Trade-Ready”** — underlying principle: [[price is the best information]]
 
-Not every nice-looking chart is worth your money. Before I commit capital, I want to see a combination of structure, momentum, and market context. Here are 12 signs that a chart is ready for a high-probability trade.
+Not every nice-looking chart is worth your money. Before I commit capital, I want to see a combination of structure, momentum, and market context — including [[eps & sales]] for fundamental fuel. Here are 12 signs that a chart is ready for a high-probability trade.
 
 **[Chart Annotation]**
 
@@ -11,7 +11,7 @@ Not every nice-looking chart is worth your money. Before I commit capital, I wan
     
 2. **Strong [[relative strength]]:** [[RS rating]] >90 or clearly outperforming index.
     
-3. **Tight Price Action:** Recent bars show reduced volatility after a strong run.
+3. **Tight Price Action:** Recent bars show reduced volatility after a strong run. [[three small bros]]
     
 4. **Defined Pattern:** Flat base, flag, or VCP — no messy ranges or random spikes.
     
@@ -21,7 +21,7 @@ Not every nice-looking chart is worth your money. Before I commit capital, I wan
     
 7. **Liquidity:** $100M+ average daily turnover for easy entry and exit.
     
-8. **Catalyst Potential:** Earnings, news, or [[sector]] momentum could drive a breakout.
+8. **Catalyst Potential:** Earnings, news, or [[industry (previously known as sectors)]] momentum could drive a breakout.
     
 9. **[[ATR%]] in Range:** 5%+ average true range — enough movement without excessive risk.
     

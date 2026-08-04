@@ -1,3 +1,5 @@
+the [[surf_turf_entry_signals]] uses the latest version here [[surf and turf v3.3]] (must read)
+
 ### list of tradingview indicators used
 
 important note: this is important so that the LLM can read the screenshots
@@ -21,7 +23,7 @@ second panel from top
 
 [[darvas box]]
 
-[[mark minervini (key moving averages)]]
+[[key moving averages]]
 
 [[custom candle stage analysis]]
 
@@ -39,6 +41,6 @@ if there's a flag for the stock tradingview screenshot, then this is the legend
 - teal are surf trades watchlist
 - purple are turf trades watchlist
 
-new input will be through [[instructions]]
+new input will be through [[instructions ai generated]]
 
 #tradingview #instructions #volume 

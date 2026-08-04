@@ -10,7 +10,7 @@ Adapting to the market is one of the most important skills I’ve learned as a t
     
 4. **Watchlist Quality Over Quantity:** I don’t care about having a long watchlist. I care about how many clean, actionable setups I see. When the watchlist dries up or fills with sloppy charts, I slow down automatically. That’s the market telling me to be patient.
     
-5. **[[Sector]] and Theme Rotation:** I always ask: where is money flowing _now_? Not last quarter. Not last year. If leadership shifts, I shift with it. Fighting rotation is one of the fastest ways to lose sync with the market.
+5. **[[industry (previously known as sectors)]] and Theme Rotation:** I always ask: where is money flowing _now_? Not last quarter. Not last year. If leadership shifts, I shift with it. Fighting rotation is one of the fastest ways to lose sync with the market.
     
 6. **[[market trend model]]:** My trend model gives me structure. Is the market in an uptrend, downtrend, or sideways phase? Are there early warning signs of a correction? I don’t need perfection — I need direction. My exposure follows the model, not my opinion.
     

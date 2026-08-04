@@ -1,3 +1,75 @@
+
+
+# How does R-multiples work?
+
+Qullamaggie and similar momentum traders use **R-multiples** as the backbone of their risk management. It’s a way of thinking about profits not in dollars or percentages, but as a multiple of the amount you initially risked.
+
+In this style of trading, the goal isn't to have a high win rate; it's to ensure that your "winners" are significantly larger than your "losers."
+
+---
+
+## 1. Defining "R"
+
+**R** stands for your **Initial Risk** on a trade. It is the distance between your entry price and your stop-loss price, multiplied by the number of shares you bought.
+
+> **The Formula:**
+> 
+> $$R = (\text{Entry Price} - \text{Stop Loss Price}) \times \text{Position Size}$$
+
+### Example:
+
+- **Account Size:** $100,000
+    
+- **Risk per trade:** 0.5% ($500) — _This $500 is your "1R"._
+    
+- **Stock Price:** $100
+    
+- **Stop Loss:** $95 (You are risking $5 per share)
+    
+- **Shares bought:** 100 shares ($500 total risk)
+    
+
+If the stock hits $95, you lose **1R** ($500). If the stock hits $115, you made a profit of $15 per share ($1,500), which is a **3R** gain.
+
+---
+
+## 2. The Momentum Trader’s "Expectancy"
+
+Traders like Qullamaggie focus on **positive expectancy**. Momentum trading often involves many small losses (0.5R to 1R) and occasional massive wins (10R, 20R, or even 50R).
+
+|**Outcome**|**Multiplier**|**Result (if 1R = $500)**|
+|---|---|---|
+|**Stop Out**|-1R|-$500|
+|**Papercut/Bake-even**|-0.2R to 0R|-$100 to $0|
+|**Standard Win**|3R to 5R|+$1,500 to +$2,500|
+|**Home Run**|10R+|+$5,000+|
+
+By thinking in R, you stop obsessing over the dollar amount and start focusing on the **risk-to-reward ratio**.
+
+---
+
+## 3. How Qullamaggie Uses R
+
+Qullamaggie’s strategy ([[breakout]], [[episodic pivots]]) relies on the **fat-tail distribution** of returns. Here is how he applies the R-multiple logic:
+
+- ** Tight[[stop loss]]:** He often places stops at the "low of the day" or just under a consolidation range. This makes the "R" distance small, allowing for a larger position size while keeping the total dollar risk the same.
+    
+- **[[sell into strength]]:** He typically sells a portion of the position (e.g., 1/3 or 1/2) after a 3R to 5R move to lock in profits and ensure the trade is at least a "Base Hit."
+    
+- **Trailing Stops:** He lets the remainder of the position ride (often using the 10-day or 20-day moving average) to capture those rare **20R+ moves** that account for the bulk of his yearly returns.
+    
+
+---
+
+## 4. Why R-Multiples Matter
+
+1. **Standardization:** You can compare your performance across different stocks and market caps. A $2 win on a $10 stock is much more significant than a $2 win on a $200 stock. R-multiples make them comparable.
+    
+2. **Emotional Control:** If you know your average win is 4R and your average loss is 0.8R, you won't panic during a 5-trade losing streak. You know that one "Home Run" will wipe out those losses and put you in the green.
+    
+3. **[[position sizing in R-multiples]]:** It forces you to calculate your exit _before_ you enter. You don't ask "How much can I make?" but rather "Where is my stop, and how many shares can I buy to only lose 1R?"
+    
+
 ## **The Compounding Edge: Thinking in R-Multiples**
 
 _Most traders focus on win rate. I think in R-Multiples._ _R is your unit of risk (e.g. 1% from your trading capital). If you risk 1R on a trade and gain 3R, that's a 3R winner. Once you start tracking trades in R, you'll see the power of compounding and why big winners matter more than hit rate._

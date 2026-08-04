@@ -16,4 +16,6 @@ Definition of technical analysis as the study of market action through charts to
 
 Never get confused between the stock and the company financials
 
-As the mantra goes, 30% of the stock’s price action is from the company. 30% from the [[sector]] outlook. 40% from the overall market. A great company may have a badly behaving stock. A bad company may have a stock that pumps ten sessions in a row.
+As the mantra goes, 30% of the stock’s price action is from the company. 30% from the [[industry (previously known as sectors)]] outlook. 40% from the overall market. A great company may have a badly behaving stock. A bad company may have a stock that pumps ten sessions in a row.
+
+#indicator 

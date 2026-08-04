@@ -1,3 +1,5 @@
+refer to [[surf and turf v3.3]] for the latest version
+below is a copy of an old version
 # Surf & Turf Entry Signals (Pine Script)
 
 TradingView indicator for identifying [[surf trade]] and [[turf trade]] setups, including inverse (short-side) versions.
@@ -23,7 +25,7 @@ This indicator displays entry signals as colored dots:
 
 ## Surf Trade Conditions (Long)
 
-Based on [[surf trade]] - pullback to [[mark minervini (key moving averages)]].
+Based on [[surf trade]] - pullback to [[key moving averages]].
 
 1. **Uptrend**: EMA10 > EMA20 > SMA50
 2. **Not extended**: Less than 4x [[ATR%]] from 50 SMA (see [[extended stocks]])
@@ -981,7 +983,7 @@ alertcondition(surfSignal or turfSignal or inverseSurfSignal or inverseTurfSigna
 
 - [[surf trade]]
 - [[turf trade]]
-- [[mark minervini (key moving averages)]]
+- [[key moving averages]]
 - [[ATR%]]
 - [[atr% multiple from 50ma]]
 - [[relative volume at time]]

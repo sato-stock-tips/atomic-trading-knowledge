@@ -6,7 +6,7 @@
  
 2) Clear Story: I need fuel. Strong sales growth (20%+), EPS growth (50%+), or a real catalyst. No story, no sustained move. [[big winners]] don’t run far without a reason.
 
- 3) Liquidity: I trade liquid stocks only. >$200M+ daily dollar volume turnover (Price x Volume). I want easy entries, easy exits, no stress when things move fast.
+ 3) Liquidity: I trade liquid stocks only. See [[average daily trading volume]] I want easy entries, easy exits, no stress when things move fast.
 
  4) [[volume]] Behavior: I look for activity. Consistent volume and clear spikes on up days. That’s how I know serious money is involved.
 
@@ -17,6 +17,7 @@
  7) Price Action Quality: [[higher lows]]. Tight bars. [[inside day]]. Compression before expansion. I want pressure building — not chaos.
     
  8)  Remember we only want to add [[two trades a day per market]]
+ 9) [[avoid opening a stock that's up 3-4 days in a row]]
  
  This checklist protects me. It removes opinions. It keeps my trading boring — and profitable. These patterns repeat. I’ve taught this to thousands of traders. I think everybody can learn these patterns.
 ![[Pasted image 20260120151815.png]]
@@ -29,7 +30,7 @@
     
 3. **Never Chase Extensions:** I skip stocks extended more than 4x ATR% from the 50MA. I want tight, low-risk entries. 
     
-4. **Strong Themes Only:** AI, drones, batteries ... — I want capital inflows behind the setup. No random movers. Filter the mid-tier [[sector]] out during screens. Random sectors, random results
+4. **Strong Themes Only:** AI, drones, batteries ... — I want capital inflows behind the setup. No random movers. Filter the mid-tier [[industry (previously known as sectors)]] out during screens. Random sectors, random results
     
 5. **Clean Structure:** Flat bases, flags, VCP, cup and handle .... If the chart is messy or wide, it doesn’t qualify.
     

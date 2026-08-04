@@ -16,8 +16,8 @@ From [[rebirth trade]]:
 
 **Stan Weinstein's Stage 2 Framework:**
 - Stage 2A: Bullish Trend established
-- Stage 2B: [[Breakout]] confirmed
-- Stage 2C: [[Extended stocks]] (>7x [[ATR%]] from 50 SMA)
+- Stage 2B: [[breakout]] confirmed
+- Stage 2C: [[extended stocks]] (>7x [[ATR%]] from 50 SMA)
 - Stage 2D: Exhausted (>11x ATR% from 50 SMA)
 
 ## The Engine of Big Moves
@@ -30,7 +30,7 @@ Markup creates the prior power move that validates [[relative strength]]. Withou
 ## Qullamaggie's Perspective
 
 From [[pullback]]:
-> "Surf trade is when a stock with tremendous [[relative strength]] takes a breather and comes back to the [[mark minervini (key moving averages)]] that's guiding them."
+> "Surf trade is when a stock with tremendous [[relative strength]] takes a breather and comes back to the [[key moving averages]] that's guiding them."
 
 During markup, the best entries come on [[pullback]]s to key moving averages — buying consolidations within the uptrend rather than chasing [[extended stocks]].
 
@@ -48,7 +48,7 @@ This is the phase to be most aggressive:
 - Add to winning positions using [[add position]] strategy
 - Allow wider [[stop loss]] levels to survive normal volatility
 - Use [[pullback]] entries like [[surf trade]] to enter existing leaders
-- Focus on [[sector]] leaders with the strongest [[relative strength]]
+- Focus on [[industry (previously known as sectors)]] leaders with the strongest [[relative strength]]
 
 Markup is where fortunes are made. The key is identifying it early through [[episodic pivots]] and riding it until signs of [[distribution]] appear.
 

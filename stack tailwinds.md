@@ -3,12 +3,12 @@ Stacking tailwinds is about layering probabilities to maximize the tailwinds beh
 As William O'Neill said that:
 
  • 40% of the stock performance comes from the market that it is in
- • 30% from the [[sector]] which the stock is in
+ • 30% from the [[industry (previously known as sectors)]] which the stock is in
  • 30% comes from the stock's behavior and [[setups]] itself
 
 As such minimally we will want to layer the probabilities and stack the tailwinds for the market, sector and individual stock to maximize the chance of success. 
 
-Additionally the [[atomic trading knowledge/asset class|asset class]] matters as there are asset class rotations happening based on macro forces.
+Additionally the [[asset class|asset class]] matters as there are asset class rotations happening based on macro forces.
 
 Any decision on stock selection should go through the process of trying to get updated information about the market such as using or relying on the market trend model as well as sectoral strength in the differences of all the sectors. 
 

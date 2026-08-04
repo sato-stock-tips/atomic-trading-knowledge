@@ -23,7 +23,7 @@ Average True Range (ATR%) is one of the most overlooked tools in stock selection
     
 10. **Screening Tip:** Use ATR% or volatility as a first filter in your stock screening. It cuts out dead money stocks and keeps your list focused on names that can actually move.
     
-11. **Big Picture:** ATR% isn't a setup by itself — but it ensures your setups have the fuel to work. Combine ATR% with [[volume]], structure, and fundamentals for the best results.
+11. **Big Picture:** ATR% isn't a setup by itself — but it ensures your setups have the fuel to work. Combine ATR% with [[volume]], structure, and fundamentals for the best results. For extended positions, see [[atr% multiple from 50ma]] which uses ATR% as a take-profit scaling ruler.
 
 ### Never trade low ATR% stocks
 

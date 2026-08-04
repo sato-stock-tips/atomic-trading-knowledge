@@ -33,10 +33,11 @@ During consolidation:
 ## Types of Consolidation
 
 1. **[[tight base]]**: Flat, near highs, multiple weeks
-2. **[[vcp]]**: Multiple contracting pullbacks
-3. **[[high tight flag]]**: Orderly pullback after vertical advance
-4. **Flat base**: Sideways, minimal depth
-5. **Cup and handle**: U-shaped base with handle shakeout
+2. **[[vcp]]**: Multiple contracting [[pullback]]
+3. [[three small bros]]
+4. **[[high tight flag]]**: Orderly pullback after vertical advance
+5. **Flat base**: Sideways, minimal depth
+6. **Cup and handle**: U-shaped base with handle shakeout
 
 All share the principle: **low volatility near highs = bullish**
 
@@ -47,7 +48,7 @@ From [[big base breakout]]:
 
 Longer consolidations (multiple months) allow more [[institutional accumulation]], creating larger supply-demand imbalances for explosive [[breakout]]s.
 
-Important note: an observation for breakouts, when the stock price moves from the bottom of the range to the top of the range in one smooth decisive fashion, that usually results in a clean successful breakout 
+Important note: an observation for breakouts, when the stock price moves from the bottom of the range to the top of the range in one smooth decisive fashion, that usually results in a clean successful breakout. Also: [[multiple tests increase breakout chance]] — the more times a level is tested and holds, the stronger the eventual break. Consolidation is the pause step in [[how stocks move like staircase]].
 
 ## Stage Analysis Context
 
@@ -64,7 +65,7 @@ The context determines whether consolidation is bullish (Stage 1-2) or bearish (
 2. **[[volume]] dry-up**: Selling exhausted
 3. **[[higher lows]]**: Price respects [[support & resistance]]
 4. **Near highs**: Not a deep correction
-5. **[[mark minervini (key moving averages)]]**: Price respects key EMAs
+5. **[[key moving averages]]**: Price respects key EMAs
 
 ## From Five Star Setups
 

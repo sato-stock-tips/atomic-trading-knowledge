@@ -35,7 +35,7 @@ Distribution is the opposite of [[institutional accumulation]]:
 
 Distribution represents **Stage 3** in the Stan Weinstein framework:
 - Stage 1: Accumulation (basing)
-- Stage 2: [[Markup]] (uptrend)
+- Stage 2: [[markup]] (uptrend)
 - **Stage 3: Distribution (topping)**
 - Stage 4: Markdown (downtrend)
 

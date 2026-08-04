@@ -12,13 +12,17 @@ For those unfamiliar with the TTM Squeeze, it is simply a visual way of seeing h
 
 Differences between the original TTM Squeeze and TTM Squeeze Pro: -> Both use a 2 standard deviation Bollinger Band; -> The original squeeze only used a 1.5 ATR Keltner Channel; and -> The pro version uses 1.0, 1.5 and 2.0 ATR Keltner Channels. The pro version therefore helps differentiate between levels of squeeze (compression) as the Bollinger Bands moves through the Keltner Channels i.e. the greater the compression, the more potential for explosive moves - less compression means more squeezing.
 
-The Histogram shows price momentum whereas the colored dots (along the zeroline) show where the Bollinger Bands are in relation to the Keltner Channels: -> Cyan Bars = positive, increasing momentum; -> Blue Bars = positive, decreasing momentum (indication of a reversal in price direction); -> Red Bars = negative, increasing momentum; -> Yellow Bars = negative, decreasing momentum (indication of a reversal in price direction); -> Orange Dots = High Compression / large squeeze (One or both of the Bollinger Bands is inside the 1st (1.0 ATR) Keltner Channel); -> Red Dots = Medium Squeeze (One or both of the Bollinger Bands is inside the 2nd (1.5 ATR) Keltner Channel); -> Black Dots = Low compression / wide squeeze (One or both of the Bollinger Bands is inside the 3rd (2.0 ATR) Keltner Channels); -> Green Dots = No Squeeze / Squeeze Fired (One or both of the Bollinger Bands is outside of the 3rd (2.0 ATR) Keltner Channel).
+The Histogram shows price momentum whereas the colored dots (along the zeroline) show where the Bollinger Bands are in relation to the Keltner Channels: -> Cyan Bars = positive, increasing momentum; -> Blue Bars = positive, decreasing momentum (indication of a reversal in price direction); -> Red Bars = negative, increasing momentum; -> Yellow Bars = negative, decreasing momentum (indication of a reversal in price direction);
+
+-> Orange Dots = High Compression / large squeeze (One or both of the Bollinger Bands is inside the 1st (1.0 ATR) Keltner Channel); -> Red Dots = Medium Squeeze (One or both of the Bollinger Bands is inside the 2nd (1.5 ATR) Keltner Channel); -> Black Dots = Low compression / wide squeeze (One or both of the Bollinger Bands is inside the 3rd (2.0 ATR) Keltner Channels); -> Green Dots = No Squeeze / Squeeze Fired (One or both of the Bollinger Bands is outside of the 3rd (2.0 ATR) Keltner Channel).
 
 Ideal Scenario: As the ticker enters the squeeze, black dots would warn of the beginning of a low compression squeeze. As the Bollinger bands continue to constrict within the Keltner Channels, red dots would highlight a medium compression. As the price action and momentum continues to compress an orange dot shows warning of high compression. As price action leaves the squeeze, the coloring would reverse e.g. orange to red to black to green. Any compression squeeze is considered fired at the first green dot that appears.
 
 Note: This is an ideal progression of the different types of squeezes, however any type of squeeze (and color sequence) may appear at anytime, therefore the focus is primarily on the green dots after any type of compression.
 
 Entry and Exit Guide: -> John Carter recommends entering a position after at least 5 black dots or wait for 1st green dot; and -> Exit on second blue or yellow bar or, alternatively, remain in the position after confirming a continuing trend through a separate indicator.
+
+![[Pasted image 20260705151245.png]]
 
 ---
 

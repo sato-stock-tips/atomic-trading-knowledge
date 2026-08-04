@@ -15,7 +15,7 @@ Shakeouts are **healthy** because they transfer shares from nervous sellers to s
 From [[high tight flag]]:
 > "Shakeouts Allowed: Minor undercuts of the MA (e.g., 1-day dips) are fine if bought up quickly, as they flush out weak hands and attract shorts to cover."
 
-Brief violations of [[support & resistance]] levels or [[mark minervini (key moving averages)]] are acceptable **if** price is quickly reclaimed. This violent snap-back traps shorts and clears sellers.
+Brief violations of [[support & resistance]] levels or [[key moving averages]] are acceptable **if** price is quickly reclaimed. This violent snap-back traps shorts and clears sellers.
 
 ## The Transition Point
 

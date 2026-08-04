@@ -1,3 +1,14 @@
+### conditions for a rebirth trade
+
+1. Inflecting 200 dma
+2. Recent strength that brought price above 200 dma
+3. pullback from breakout
+4. prior failed breakout close to 200 dma (highly preferable)
+
+
+---
+
+
 others may name this a Stan Weinstein Stage Analysis stage 2 wedge pop.
 
 this Is when the stock is undergoing a Stan Weinstein Stage Analysis, stage two - price is advancing upwards. The wedge pop (term from Oliver Kell) refers to when the price reclaims the top two highest EMAs visible on the chart. This could be simple moving averages for 150 days, 200 days, or 50 days, as well as the 10 and 20 day exponential moving averages (EMAs) that are usually close to the price. 
@@ -9,5 +20,9 @@ The stock ideally in a Stage Two Advance with a wedge pop across on top of the E
 the setup is stronger when there's a [[high tight flag]] from the lows
 
 rebirth trades usually have weak [[RS rating]], however, the [[relative strength]] should be improving as seen by the relative strength RS rating getting higher than the moving average of the RS rating (top panel [[tradingview indicators]]) resulting in a green shading on the RS rating indicator at the top panel
+
+---
+
+![[Pasted image 20260715123105.jpg]]
 
 #entry #setup #five-star-setups 

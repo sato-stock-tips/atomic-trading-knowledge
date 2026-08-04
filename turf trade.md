@@ -1,4 +1,4 @@
-Turf trades is a setup where price is hovering around clumped-up [[mark minervini (key moving averages)]]. The key moving averages are the  EMA 10, EMA 20, and SMA 50. When they are all very close to each other (clumped up), and the price has reclaimed these three key moving averages in the clumped-up MA setup.
+Turf trades is a setup where price is hovering around clumped-up [[key moving averages]]. The key moving averages are the  EMA 10, EMA 20, and SMA 50. When they are all very close to each other (clumped up), and the price has reclaimed these three key moving averages in the clumped-up MA setup.
 
 it takes time for the key moving averages (the EMA 10, EMA 20, and the SMA 50) to all clump up together or get close to each other. What I have noticed is that price when it's flagging in the consolidation zone of the high tight flag, it would test the EMA 20 once, and then test the SMA 50 once, before it starts to take off again on another leg up. This is very similar to [[how stocks move like staircase]]
 

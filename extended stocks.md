@@ -14,12 +14,12 @@ _One of the hardest lessons in trading is this: most of the strongest stocks wil
     
 6. **Manage FOMO:** Remind yourself — another [[big base breakout]] _will_ come. Don’t waste capital chasing late moves.
     
-7. **Track Sector Rotation:** Sometimes new leaders form in the same [[sector]]. Don’t force the old one — prepare for the next.
+7. **Track Sector Rotation:** Sometimes new leaders form in the same [[industry (previously known as sectors)]]. Don’t force the old one — prepare for the next.
     
 8. **Learn from Past Winners:** Study charts like TSLA, NVDA, or CELH. They all had pauses. That’s where pros entered.
 
 Never buy extended stocks
 
-An extended stock is when the price is more than 4x ATR% from the 50 day simple moving average (SMA). In fact, we are sellers when its more than 7x ATR% from 50SMA following the [[7-11 take profit rule]] Chasing momentums kills your portfolio. Discipline at entry is needed. (Adapted from David Ryan)
+An extended stock is when the price is more than 4x ATR% from the 50 day simple moving average (SMA). In fact, we are sellers when its more than 7x ATR% from 50SMA following the [[69 take profit rule]] Chasing momentums kills your portfolio. Discipline at entry is needed. (Adapted from David Ryan)
    
 #FOMO #psychology 

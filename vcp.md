@@ -14,7 +14,7 @@ A **Volatility Contraction Pattern (VCP)** is a specific type of [[consolidation
 > "A flat base, VCP, or sideways consolidation — multiple weeks of low volatility near highs."
 > — From [[tight base]]
 
-The VCP represents strong hands accumulating while weak hands are shaken out through smaller and smaller price swings. When volatility contracts to extremely low levels while [[relative strength]] remains strong, the stock is coiled for a powerful move.
+The VCP represents strong hands accumulating while weak hands are [[shakeout]] through smaller and smaller price swings. Each contraction tests the level, and [[multiple tests increase breakout chance]] as supply dries up. When volatility contracts to extremely low levels while [[relative strength]] remains strong, the stock is coiled for a powerful move.
 
 ## VCP vs Other Bases
 
@@ -32,6 +32,8 @@ The breakout occurs when price clears the tightest consolidation range on expand
 
 From [[buying clues]]:
 > "Defined Pattern: Flat base, flag, or VCP — no messy ranges"
+
+[[three small bros]]
 
 The VCP is a valid setup structure within [[five star setups]] when combined with the other required elements: prior power move, [[relative strength]], tight action, and proper [[market trend model]].
 

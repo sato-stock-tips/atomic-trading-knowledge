@@ -1,0 +1,1 @@
+Sell everything and go on a vacation when the index is more than six times ATR percentage from the 50 SMA. 

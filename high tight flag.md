@@ -25,7 +25,7 @@ Qullamaggie is exhaustive in requiring multiple layers of confirmation for a val
 ### 1. **Prior Uptrend (Flagpole)**
 
    - A strong, explosive upward move: Typically 30-100%+ gain in 1-3 months (or shorter on intraday).
-   - Often triggered by an [[episodic pivots]], such as earnings surprises, news, or [[sector]] momentum.
+   - Often triggered by an [[episodic pivots]], such as earnings surprises, news, or [[industry (previously known as sectors)]] momentum.
    - High volume during the surge, indicating [[institutional accumulation]].
    - The stock should be a market leader (with strong [[relative strength]], ie.[[RS rating]]): Among the top 1-2% performers over 1-month, 3-month, and 6-month periods.
    - Example: A 500% move in weeks, as in $NKLA.
@@ -35,7 +35,7 @@ Qullamaggie is exhaustive in requiring multiple layers of confirmation for a val
    - **Duration**: 2 weeks to 2 months on daily charts; shorter (days to weeks) on intraday. Qullamaggie prefers longer consolidations for higher-quality setups, where slower moving averages (e.g., 50 SMA) become relevant. See [[big base breakout]]
    - **Price Action**: Orderly pullback with higher lows and a tightening range (narrowing highs and lows), possibly presence of [[inside day]]
    - **Volatility**: Low; correction typically <25% from the peak, with minimal drawdown (e.g., 5-10%).
-   - **Support Levels**: Price "surfs" or rests on rising 10-day EMA and 20-day EMA moving averages (MAs) (see [[mark minervini (key moving averages)]]. The moving averages should "catch up" to the price without the price dropping far below it.
+   - **Support Levels**: Price "surfs" or rests on rising 10-day EMA and 20-day EMA moving averages (MAs) (see [[key moving averages]]. The moving averages should "catch up" to the price without the price dropping far below it.
    - **Shakeouts Allowed**: Minor undercuts of the MA (e.g., 1-day dips) are fine if bought up quickly, as they flush out weak hands and attract shorts to cover.
    - **[[volume]]**: Declining during consolidation, building to a breakout.
    - **Form**: Flat channels, symmetrical triangles, or descending triangles. Must be "clean" – no messy wiggles.

@@ -13,7 +13,7 @@
 
 4) I collect setups early. I watch stocks for days, weeks, sometimes months. I don’t care if they move without me. I care if they build structure.
    
-5) Everything must align. Market context. Stock structure. And my own mindset. If one piece is off, I wait. No forcing trades. 
+5) Everything must align. Market context. Stock structure. And my own mindset. If one piece is off, I wait. No forcing trades. [[confluence]] of signals is what separates a trade worth taking from a [[weak setup]].
    
 6) I wait for tight risk. I only want entries where the stop is tight and the upside is asymmetric. Small risk. Big reward (5 to 1 or better 10 to 1). That’s non-negotiable. [[R-multiples]]
    
@@ -23,4 +23,6 @@
    
 9) [[upcoming earnings date]] is more than 7 days away
 
-#psychology #stop-losses #five-star-setups #setup 
+10) Before executing any setup, run through the [[before opening a trade]] checklist. [[late gap entries]] and opening range breakouts are additional entry techniques within valid setups.
+
+#psychology #stop-losses #five-star-setups #setup

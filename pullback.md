@@ -10,7 +10,7 @@ A pullback is a temporary price retracement within an established uptrend that p
 
 ### Core Definition
 
-> "Surf trade is when a stock with tremendous [[relative strength]] takes a breather and comes back to the [[mark minervini (key moving averages)]] that's guiding them."
+> "Surf trade is when a stock with tremendous [[relative strength]] takes a breather and comes back to the [[key moving averages]] that's guiding them."
 
 The concept centers on stocks having a big run-up with good adherence to a key moving average (EMA 10 or EMA 20). When the stock takes one or two sessions drifting back towards the supporting EMA—ideally within one ATR multiple from the moving average—it provides a high-probability buying opportunity.
 
@@ -113,7 +113,7 @@ Before considering a pullback entry, the stock must meet these criteria:
 > "Sector momentum is 30% of the move." - Referenced in [[buying clues]]
 
 - Even perfect pullback setups struggle in weak sectors
-- Look for **cluster of breakouts** in the same [[sector]]—shows institutional money flow
+- Look for **cluster of breakouts** in the same [[industry (previously known as sectors)]]—shows institutional money flow
 - "If the entire theme is under pressure, I avoid trading it"
 
 ### Volume as Truth Serum
@@ -122,6 +122,8 @@ From [[volume]] principles:
 - **Low volume + price down** = no real selling ( hold/buy)
 - **High volume + price down** = distribution (exit)
 - Volume dry-up at lows signals sellers are done—setting up next accumulation phase
+---
+
 
 ---
 
@@ -138,7 +140,7 @@ From [[buying clues]], a trade-ready pullback requires:
 5. **[[volume]] Clues:** 1-2 up-days with 1.5-2x average volume in recent weeks
 6. **Light Pullbacks:** Down days on low volume—no aggressive selling
 7. **Liquidity:** $100M+ average daily turnover
-8. **Catalyst Potential:** Earnings, news, or [[sector]] momentum
+8. **Catalyst Potential:** Earnings, news, or [[industry (previously known as sectors)]] momentum
 9. **[[ATR%]] in Range:** 5%+ ATR for movement without excessive risk
 10. **Sector/Theme Strength:** Group is also trending higher
 11. **Not [[extended stocks]]:** Within 5% of setup, not stretched above
@@ -171,7 +173,7 @@ From [[institutional accumulation]]:
 5. **Strong [[relative strength]] Line:** New highs while market chops
 6. **Support at Key MAs:** Respect for EMA 10 or EMA 20
 7. **Volume Dry-Ups at Lows:** Collapsed volume = sellers done
-8. **Cluster Breakouts in [[Sector]]:** Institutions buy themes, not individual stocks
+8. **Cluster Breakouts in [[industry (previously known as sectors)]]:** Institutions buy themes, not individual stocks
 9. **Earnings as Catalyst:** Intensified accumulation around earnings
 10. **No Panic on Market Weakness:** Refuses to drop when indexes are red
 
@@ -193,6 +195,10 @@ From [[five star setups]]:
 8. **Tight Risk Management:** Precise entry, tight stop below base—[[assymetric bets]]
 
 > "These setups don't come often—but when they come, they push your equity curve to new highs. Learn to wait. That's where the real money is." - From [[five star setups]]
+
+## Elite swing trader
+
+Likes to buy after a fake break out and then a subsequent shake out and then buy 
 
 ---
 
@@ -237,7 +243,7 @@ From [[extended stocks]]:
 2. **[[ATR%]] Check:** Trading above 1x or more its ADR% means high risk
 3. **Wait for [[tight base]]:** Every leader pauses—flags, VCPs reset risk/reward
 4. **Avoid "Hope Entries":** Buying after +30% run is gambling, not trading
-5. **Track Sector Rotation:** New leaders form in same [[sector]]—prepare for next
+5. **Track Sector Rotation:** New leaders form in same [[industry (previously known as sectors)]]—prepare for next
 6. **Learn from Past Winners:** TSLA, NVDA, CELH all had pauses where pros entered
 
 > "Strong Stocks Give Second Chances: Wait for tight consolidations, pullbacks to the 20EMA, or a proper volatility compression pattern. That's where risk/reward resets." - From [[entering stocks late]]
@@ -290,7 +296,7 @@ From [[high tight flag]]:
 - [[higher lows]] - Key structural indicator
 - [[tight base]] - Consolidation pattern
 - [[relative strength]] - Outperformance requirement
-- [[mark minervini (key moving averages)]] - Technical framework
+- [[key moving averages]] - Technical framework
 - [[darvas box]] - Box theory pullbacks
 - [[buying clues]] - Trade-ready signals
 - [[before opening a trade]] - Pre-entry checklist

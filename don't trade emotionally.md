@@ -16,6 +16,6 @@
    
 8. FOMO can take over in highly trending markets. there are rules such as [[two trades a day per market]] to rein in these human emotions
 
-Also see [[don't overtrade]] and [[drawdown]]
+Also see [[don't overtrade]] and [[drawdown]]. The antidote is building the [[great momentum traders mindset]] and having a clear [[trade philosophy]] so rules replace reactions. [[adapting to the market]] consistently is the skill that keeps emotion out — you're responding to conditions, not feelings. Emotional trading almost always means taking a [[weak setup]].
 
 #psychology

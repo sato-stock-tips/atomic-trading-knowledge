@@ -16,7 +16,7 @@ The watchlist is populated through two scans, details below. The bare minimum I 
 - Primary stocks only
 - Last price > $7
 - 20 day ADR% > 3.5%
-- Exclude [[sector]]: Biotech and Pharmaceuticals
+- Exclude [[industry (previously known as sectors)]]: Biotech and Pharmaceuticals
 - Market cap > $300m
 
 ### [[RS rating]] scan [[relative strength]]

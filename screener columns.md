@@ -11,27 +11,13 @@ Every column serves a specific purpose in identifying high-probability [[surf tr
 # screener results for stocks
 ## The 20 Columns (Left to Right)
 
- how to read the columns: those signify each individual stock, and the columns are the characteristics of the stock, which are numbered below from 1 to 20 s
-
-### 1. Colored Flag
-**Purpose:** Visual categorization and position tracking
-
-**Color Coding:**
-- **Yellow:** Currently open positions (track active trades)
-- **Teal:** Surf trades watchlist (pullback to MA candidates)
-- **Purple:** Turf trades watchlist (clumped MA setups)
-
-**Why:** Instant visual separation prevents confusion between open positions and watchlist candidates. Critical for respecting [[two trades a day per market]] rule.
-
----
-
-### 2. Symbol Ticker
+### 1. Symbol Name & Ticker
 **Purpose:** Stock identification and market detection
 
 **Market Recognition:**
-- **6 digits:** Korean stocks (KRW pricing, 1 USD = 1467 KRW)
-- **4 digits:** Japan (JPY, 1 USD = 158 JPY) or Hong Kong stocks (HKD, 1 USD = 7.80 HKD)
-- **Alphabets:** US stocks, occasionally Canadian (rare earth miners)
+- **6 digits:** Korean stocks (KRW pricing, 1 USD = 1510 KRW)
+- **4 digits:** Japan (JPY, 1 USD = 159 JPY)
+- **Alphabets:** US stocks, occasionally Canadian or Australian
 
 **Why:** Immediate market identification is critical for:
 - Currency conversion in position size calculations
@@ -39,21 +25,8 @@ Every column serves a specific purpose in identifying high-probability [[surf tr
 - Time zone awareness (Korean Standard Time GMT+9 for opening range decisions)
 
 ---
-(temporary removed for space reason)
-### 3. Sector
-**Purpose:** Theme identification and momentum concentration detection
 
-**Application:**
-- Hot [[sector]] create fuel for momentum
-- Sector strength is a required catalyst per [[five star setups]] requirement #5
-- Groups stocks for batch analysis - scan sector leaders together
-- Avoid excluded sectors: Biotech and Pharmaceuticals (per [[stock screener]] filters)
-
-**Why:** Leaders emerge from leading sectors. Sector rotation drives institutional capital flows. This column identifies where money is moving NOW.
-
----
-
-### 4. Market Capitalization (USD)
+### 2. Market Capitalization (USD)
 **Purpose:** Liquidity assessment and institutional participation validation
 
 **Screening Thresholds:**
@@ -76,11 +49,11 @@ Market Cap > $10B   = Can pyramid/add to positions
 
 ---
 
-### 5. Price (Note the Currency)
+### 3. Price (Note the Currency)
 **Purpose:** "[[price is the best information]]" - primary data point
 
 **Application:**
-- Confirms price is respecting or reclaiming [[mark minervini (key moving averages)]]
+- Confirms price is respecting or reclaiming [[key moving averages]]
 - Entry point identification relative to EMAs/SMAs
 - Validates stock meets minimum price filters:
   - [[episodic pivots]] scan: >$7
@@ -99,7 +72,7 @@ Market Cap > $10B   = Can pyramid/add to positions
 
 ---
 
-### 6. Change from Open %
+### 4. Change from Open %
 **Purpose:** Intraday momentum and opening range strength
 
 **Application:**
@@ -117,7 +90,7 @@ Market Cap > $10B   = Can pyramid/add to positions
 
 ---
 
-### 7. Gap % (1 Day)
+### 5. Gap % (1 Day)
 **Purpose:** Pre-market strength and opening range breakout identification
 
 **Application:**
@@ -141,7 +114,7 @@ Gap <2% = Opening range breakout order consideration
 
 ---
 
-### 8. ATR%
+### 6. ATR% (14 days)
 **Purpose:** PRIMARY volatility filter - non-negotiable screening requirement
 
 **Minimum Thresholds:**
@@ -164,17 +137,10 @@ Gap <2% = Opening range breakout order consideration
 
 ---
 
-### 9. Relative Volume at Time
+### 7. Relative Volume at Time
 **Purpose:** Institutional accumulation detection and volume pattern confirmation
 
-**Application:**
-- **[[surf trade]] entry:** Rel Vol <1.0 (volume dry-up on pullback) ✓
-- **[[surf trade]] prior run:** Rel Vol >1.5 on up-days (accumulation) ✓
-  
-- **[[turf trade]] consolidation:** Rel Vol <0.8 (coiling) ✓
-- **[[turf trade]] breakout:** Rel Vol >2.0 (expansion on MA reclaim) ✓
-  
-- **Episodic pivots:** Rel Vol >2.0+ (unusual activity)
+**Application:** see [[surf and turf v3.3]]
 
 **Why [[relative volume at time]] is Superior:**
 - Compares current 5-minute bar volume to same-time average over 10 days
@@ -188,8 +154,8 @@ Gap <2% = Opening range breakout order consideration
 
 ---
 
-### 10-14. EMA 10, EMA 20, SMA 50, SMA 150, SMA 200
-**Purpose:** Complete [[mark minervini (key moving averages)]] structure analysis
+### 8-12. EMA 10, EMA 20, SMA 50, SMA 150, SMA 200
+**Purpose:** Complete [[key moving averages]] structure analysis
 
 the numbers corresponding to the columns below is the EMA 10, EMA 20 and SMA 50, SMA 150, SMA 200 respective values, and not distances
 
@@ -238,7 +204,7 @@ Price: $46.10 = Reclaiming all 3 → TURF TRADE SIGNAL
 
 ---
 
-### 15. Performance % (1 Week)
+### 13. Performance % (1 Week)
 **Purpose:** Bridge between daily action and monthly trend - immediate momentum validation
 
 **Application:**
@@ -271,7 +237,7 @@ Perf (3M): +58%  ✓ Sustained leader
 
 ---
 
-### 16. Performance % (1 Month)
+### 14. Performance % (1 Month)
 **Purpose:** Recent power move detection - [[five star setups]] requirement #1
 
 **Application:**
@@ -301,7 +267,7 @@ Perf (1W): -2%, Perf (1M): +5% = Weak trend, avoid ✗
 
 ---
 
-### 17. Performance % (3 Months)
+### 15. Performance % (3 Months)
 **Purpose:** Sustained trend validation - separates real leaders from flash moves
 
 **Application:**
@@ -352,7 +318,7 @@ Perf (3M): +50%, Perf (1M): +20% = Sustained strength, ideal ✓
 
 ---
 
-### 18. Performance % (6 Months)
+### 16. Performance % (6 Months)
 **Purpose:** Long-term trend context and [[rebirth trade]] validation
 
 **Application:**
@@ -396,7 +362,7 @@ Perf (1W): +5%   → Healthy pullback
 
 ---
 
-### 19. EPS Diluted Growth (TTM YoY)
+### 17. EPS Diluted Growth (TTM YoY)
 **Purpose:** Earnings catalyst validation - [[five star setups]] requirement #6
 
 **Threshold from [[five star setups]]:**
@@ -429,7 +395,7 @@ EPS Growth +25%, Revenue Growth +8%  = Weak fundamentals (3-star max)
 
 ---
 
-### 20. Revenue Growth (TTM YoY)
+### 18. Revenue Growth (TTM YoY)
 **Purpose:** Sales momentum validation - completes [[eps & sales]] fundamental analysis
 
 **Threshold from [[five star setups]]:**
@@ -481,6 +447,13 @@ Recent quarters showing revenue acceleration
 - Indicator shows both figures as overlays on earnings report candles
 - Both metrics required for [[five star setups]] catalyst requirement
 - "Structural story" (rare earth materials, AI theme) can substitute if fundamentals lag
+
+---
+
+## 19. Industry
+
+refer to [[industry (previously known as sectors)]] for latest updates on the winning and losing sectors
+term industry and sector used interchangeably
 
 ---
 
@@ -602,7 +575,7 @@ Market Cap: $2.1B → Sufficient liquidity ✓
 
 ---
 
-# screener results for [[sector]]
+# screener results for [[industry (previously known as sectors)]]
 
 from left to right
 

@@ -5,3 +5,5 @@ Say you have decided to enter based on price action tightening and/or EMA crosso
 Place the stop at the low of the opening range.
 
 The key advantage is it allows for early entry into trades. By entering the market as the price breaks out of its opening range, traders capture a large portion of the intra day move. Opening range breakout orders (ORB orders) also positions for minimal risk. (Patel)
+
+According to Martin Luke, opening range breakouts are best done on gap-down days and use the one-minute. 

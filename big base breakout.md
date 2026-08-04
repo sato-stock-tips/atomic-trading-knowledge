@@ -13,6 +13,12 @@
 
 Every model book of past market leaders — from AAPL to TSLA to NVDA — shows the same thing: [[big base breakout]]fuel the monster runs. Study them. Trade them. I’ve taught this process to thousands of traders. I think everybody can learn it.
 
+When you study Druckenmiller's 13Fs (even though they are delayed) and look at his cost basis, he is almost always buying within a base, whether in an established uptrend or looking to catch the change in momentum from a downtrend into an uptrend.
+
+That is why focusing on big weekly and monthly bases coupled with a fundamental, growth and/or thematic backdrop leads you to the new big themes.
+
+Bases form from smart money accumulating the stock
+
 ![[Pasted image 20260120221204.png]]
 
 ![[Pasted image 20260120221213.png]]
