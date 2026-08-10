@@ -1,5 +1,5 @@
 //@version=6
-// abc Script v3 (July 2026)
+// abc Script v3.1 (Aug 2026)
 //
 // WHAT WAS BROKEN in v2:
 //   The Donchian breakout used ta.crossover(close, upperDonch) where upperDonch
@@ -14,17 +14,32 @@
 //   just set the condition to "greater than 0" and every stock that broke out of
 //   the relevant Donchian channel within the past 3 candles is displayed.
 //
-// PLOT ORDER (Pine Screener lists plots in declaration order — first 6 on top):
+// ADDED in v3.1 (Aug 2026):
+//   New standalone "RS Rating (numeric 1-99) [8 weeks]" column. It runs the SAME
+//   1-99 percentile-bucket mapping as the original RS Rating, but the input score
+//   is a PURE 8-week (40 trading day) stock-vs-SPX ratio instead of the 40/20/20/20
+//   quarterly blend — so it only measures the past 8 weeks, nothing longer.
+//   It uses its OWN threshold inputs (grpRS8W) because the 8-week score has a much
+//   tighter distribution than the blended one; the original thresholds (195.93,
+//   117.11, ...) were calibrated for the wide 252-day blend and would misclassify
+//   almost everything if reused here. The seeded defaults below are a first-guess
+//   sqrt-time scaling (~0.40x) of the original thresholds around the 100 midpoint —
+//   NOT a backtested calibration. Recalibrate by eye once you have screener data:
+//   widen the thresholds if too many names cluster at 99, narrow them if almost
+//   nothing reaches 99/90.
+//
+// PLOT ORDER (Pine Screener lists plots in declaration order — first 7 on top):
 //   1. RS Rating (numeric 1-99)
-//   2. RS Rating Is 99
-//   3. 3+ Long Signals in Last 12 Candles
-//   4. 3+ Short Signals in Last 12 Candles
-//   5. Donchian 55 Upper Breakout (last 3 candles)   -> screen with "> 0"
-//   6. Donchian 20 Lower Breakdown (last 3 candles)  -> screen with "> 0"
+//   2. RS Rating (numeric 1-99) [8 weeks]
+//   3. RS Rating Is 99
+//   4. 3+ Long Signals in Last 12 Candles
+//   5. 3+ Short Signals in Last 12 Candles
+//   6. Donchian 55 Upper Breakout (last 3 candles)   -> screen with "> 0"
+//   7. Donchian 20 Lower Breakdown (last 3 candles)  -> screen with "> 0"
 //   Everything else (extra Surf/Turf plots, chart lines, Donchian Midline)
-//   is declared AFTER these six, so it lands behind the dropdown.
+//   is declared AFTER these seven, so it lands behind the dropdown.
 
-indicator(title='abc v3', shorttitle='abc v3', overlay=true, max_bars_back=500)
+indicator(title='abc v3.1', shorttitle='abc v3.1', overlay=true, max_bars_back=500)
 
 // ==============================================================================
 // INPUT GROUPS
@@ -39,6 +54,15 @@ ffth  = input.float(80.96,  'RS Score for 30+ rating', group=grpRS)
 sxth  = input.float(53.64,  'RS Score for 10+ rating', group=grpRS)
 svth  = input.float(24.86,  'RS Score for 1+ rating',  group=grpRS)
 showRSLabel = input.bool(false, 'Show current RS Rating label on chart', group=grpRS)
+
+grpRS8W = 'RS Rating Thresholds [8 weeks]'
+first8w = input.float(138.37, 'RS Score for 99+ rating', group=grpRS8W)
+scnd8w  = input.float(106.84, 'RS Score for 90+ rating', group=grpRS8W)
+thrd8w  = input.float(99.62,  'RS Score for 70+ rating', group=grpRS8W)
+frth8w  = input.float(96.66,  'RS Score for 50+ rating', group=grpRS8W)
+ffth8w  = input.float(92.38,  'RS Score for 30+ rating', group=grpRS8W)
+sxth8w  = input.float(81.46,  'RS Score for 10+ rating', group=grpRS8W)
+svth8w  = input.float(69.94,  'RS Score for 1+ rating',  group=grpRS8W)
 
 grpMA   = 'SurfTurf v4 | Moving Averages'
 ema10Length = input.int(10, 'EMA 10 Length', minval=1, group=grpMA)
@@ -157,6 +181,41 @@ if totalRsScore < sxth and totalRsScore >= svth
 
 validRS = not na(totalRsRating)
 isRS99  = validRS and totalRsRating == 99
+
+// ------------------------------------------------------------------------------
+// RS RATING [8 WEEKS] — same 1-99 bucket mapping, but the score is a pure
+// 40-trading-day (8 week) stock-vs-SPX ratio, not the 40/20/20/20 quarter blend.
+// ------------------------------------------------------------------------------
+
+n40 = bar_index < 40 ? bar_index : 40
+
+perfTicker8w = nz(closeDa    / closeDa[n40],    1.0)
+perfComp8w   = nz(spxCloseDa / spxCloseDa[n40], 1.0)
+
+float totalRsScore8w = perfTicker8w / perfComp8w * 100
+if na(totalRsScore8w)
+    totalRsScore8w := svth8w
+
+float totalRsRating8w = na
+
+if totalRsScore8w >= first8w
+    totalRsRating8w := 99
+if totalRsScore8w <= svth8w
+    totalRsRating8w := 1
+if totalRsScore8w < first8w and totalRsScore8w >= scnd8w
+    totalRsRating8w := f_attributePercentile(totalRsScore8w, first8w, scnd8w, 98, 90, 0.33)
+if totalRsScore8w < scnd8w and totalRsScore8w >= thrd8w
+    totalRsRating8w := f_attributePercentile(totalRsScore8w, scnd8w, thrd8w, 89, 70, 2.1)
+if totalRsScore8w < thrd8w and totalRsScore8w >= frth8w
+    totalRsRating8w := f_attributePercentile(totalRsScore8w, thrd8w, frth8w, 69, 50, 0)
+if totalRsScore8w < frth8w and totalRsScore8w >= ffth8w
+    totalRsRating8w := f_attributePercentile(totalRsScore8w, frth8w, ffth8w, 49, 30, 0)
+if totalRsScore8w < ffth8w and totalRsScore8w >= sxth8w
+    totalRsRating8w := f_attributePercentile(totalRsScore8w, ffth8w, sxth8w, 29, 10, 0)
+if totalRsScore8w < sxth8w and totalRsScore8w >= svth8w
+    totalRsRating8w := f_attributePercentile(totalRsScore8w, sxth8w, svth8w, 9, 2, 0)
+
+validRS8w = not na(totalRsRating8w)
 
 // ==============================================================================
 // SURF & TURF v4 LOGIC
@@ -329,15 +388,16 @@ dcBreakUpLast3 = math.sum(dcBreakUpBar ? 1 : 0, dcBreakLookback)
 dcBreakDnLast3 = math.sum(dcBreakDnBar ? 1 : 0, dcBreakLookback)
 
 // ==============================================================================
-// PINE SCREENER OUTPUTS — THE 6 PRIMARY FILTERS (declared first = shown first)
+// PINE SCREENER OUTPUTS — THE 7 PRIMARY FILTERS (declared first = shown first)
 // ==============================================================================
 
 plot(validRS ? totalRsRating : na, title='1. RS Rating (numeric 1-99)', display=display.data_window)
-plot(isRS99 ? 1 : 0, title='2. RS Rating Is 99', display=display.data_window)
-plot(hasMin3Long ? 1 : 0, title='3. 3+ Long Signals in Last 12 Candles', display=display.data_window)
-plot(hasMin3Short ? 1 : 0, title='4. 3+ Short Signals in Last 12 Candles', display=display.data_window)
-plot(dcBreakUpLast3, title='5. Donchian 55 Upper Breakout (last 3 candles)', display=display.data_window)
-plot(dcBreakDnLast3, title='6. Donchian 20 Lower Breakdown (last 3 candles)', display=display.data_window)
+plot(validRS8w ? totalRsRating8w : na, title='2. RS Rating (numeric 1-99) [8 weeks]', display=display.data_window)
+plot(isRS99 ? 1 : 0, title='3. RS Rating Is 99', display=display.data_window)
+plot(hasMin3Long ? 1 : 0, title='4. 3+ Long Signals in Last 12 Candles', display=display.data_window)
+plot(hasMin3Short ? 1 : 0, title='5. 3+ Short Signals in Last 12 Candles', display=display.data_window)
+plot(dcBreakUpLast3, title='6. Donchian 55 Upper Breakout (last 3 candles)', display=display.data_window)
+plot(dcBreakDnLast3, title='7. Donchian 20 Lower Breakdown (last 3 candles)', display=display.data_window)
 
 // ==============================================================================
 // SECONDARY SCREENER OUTPUTS (behind the dropdown)
@@ -400,5 +460,5 @@ alertcondition(hasMin3Long and not hasMin3Long[1], title='3+ Long Signals in 12 
 alertcondition(hasMin3Short and not hasMin3Short[1], title='3+ Short Signals in 12 Candles', message='{{ticker}} now has 3+ Surf/Turf short signals in last 12 candles')
 
 // ==============================================================================
-// END OF abc v3
+// END OF abc v3.1
 // ==============================================================================

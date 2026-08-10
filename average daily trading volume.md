@@ -3,8 +3,8 @@ Average daily trading volume has to be more than $100 million. On Trading View, 
 or
 
 Price x Average Volume (10 days)
-- USA - 250M
-- Japan - 60B JPY
+- USA - 400M
+- Japan - 80B JPY
 - Korea - 150B KRW
 
 Make sure to screen and filter above

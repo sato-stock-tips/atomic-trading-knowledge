@@ -4,7 +4,7 @@ Take note that this Markdown file is used for supporting information only.
     
 2. Afternoon strength or weakness should have follow through the next day.
     
-3. The best trading [[reversal patterns]] occur in the morning, not the afternoon.
+3. The best trading [[reversal]] occur in the morning, not the afternoon.
     
 4. The larger the market [[gaps]], the greater the odds of [[continuation]] and a trend.
     

@@ -19,7 +19,7 @@ candles seen on the screenshot will follow the source code below
 
 // Inspired by stage analysis concepts (such as those popularized by traders like Stan Weinstein and adapted from @TradeUdeNYC's work),
 
-// it helps traders identify [[trending market]], [[reversal patterns]], breakouts, and exhaustion points in a stock, forex, crypto, or any other instrument's price action.
+// it helps traders identify [[trending market]], [[reversal]], breakouts, and exhaustion points in a stock, forex, crypto, or any other instrument's price action.
 
 //
 

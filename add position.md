@@ -2,6 +2,30 @@
 
 We never average down because we aim to limit our losses. Adding to our losers or averaging down by buying on the way down to “cheapen” the average cost, is antithetical to our method. All good traders average up, not average down.
 
+Randolph from gnostic capital:
+
+On Adding to Losers
+"Adding to losers is the cardinal sin of risk management. It is the primary mechanism by which minor, routine paper losses are converted into fund-ending catastrophes.
+
+When you add to a losing position, you tell yourself you are 'lowering your cost basis' or 'getting a better price.' You are doing no such thing. 
+
+What you are actually doing is doubling down on a hypothesis that the market is currently proving wrong. It is rarely a rational risk calculation; it is almost always an act of emotional self-preservation driven by ego.
+
+The human brain hates being wrong, so it attempts to lower its break-even threshold to escape psychological discomfort faster. But the market does not know your cost basis, nor does it care about your break-even point.
+
+If a position is moving against you, one of two things is true:
+Your fundamental thesis is wrong.
+Your timing or execution is wrong
+
+In either scenario, increasing your exposure is irrational. If your thesis is wrong, you are pouring capital into a sinkhole. If your timing is wrong, you are exposing your capital to drawdown before the market has confirmed your edge.
+
+To evaluate whether adding to a losing position makes sense, ask yourself one clean question: If I had zero position today, would I put on a full-sized trade right here, right now, with this exact price action? If the answer is no, then adding to your existing position is not investing—it is fighting reality.
+
+Professional risk management requires asymmetry: cut your losers quickly and let your winners compound. Averaging down flips this dynamic completely on its head—it caps your upside potential while concentrating your risk in your worst-performing ideas."
+
+---
+
+
 ### adding to winners
 
 adding to winners is like adding a completely new position atomically. it has to satisfy either surf trades, turf trades, or rebirth trades. the prospect of adding to winners make turf trades appealing. when a turf trades breaks out and advances into surf trade mode, it allows for adding to winners. to an extent rebirth trades allow the same. surf trades however, offer limited chances to add to winners
